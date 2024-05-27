@@ -1,4 +1,5 @@
-# SCHEDULING CLUE MATH TUTORS FOR AUTUMN QUARTERS
+## SCHEDULING CLUE MATH TUTORS FOR AUTUMN QUARTERS
+# LIAM CHU, DIANNA E, TYLER FRANCK, SARAH MATHISON, PUJAN PATEL
 Abstract. The Center for Learning and Undergraduate Enrichment (CLUE) is an academic support program 
 at the University of Washington that provides drop-in tutoring for a wide range of subjects. Historically,
 the demand for math tutoring has vastly exceeded that of other subjects, and recently, the program has
