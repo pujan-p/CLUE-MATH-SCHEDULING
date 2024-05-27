@@ -1,6 +1,6 @@
 # SCHEDULING CLUE MATH TUTORS FOR AUTUMN QUARTERS
-Abstract. The Center for Learning and Undergraduate Enrichment (CLUE) is an academic support pro-
-gram at the University of Washington that provides drop-in tutoring for a wide range of subjects. Historically,
+Abstract. The Center for Learning and Undergraduate Enrichment (CLUE) is an academic support program 
+at the University of Washington that provides drop-in tutoring for a wide range of subjects. Historically,
 the demand for math tutoring has vastly exceeded that of other subjects, and recently, the program has
 struggled to meet this demand. This is particularly true for autumn quarter as students, refreshed from
 summer break, are especially energized and motivated to succeed. Unfortunately, the inability to meet this
