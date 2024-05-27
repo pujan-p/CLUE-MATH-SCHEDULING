@@ -6,6 +6,6 @@ struggled to meet this demand. This is particularly true for autumn quarter as s
 summer break, are especially energized and motivated to succeed. Unfortunately, the inability to meet this
 demand means that many students are often turned away without receiving any help at all. In this paper,
 we hope to bridge the gap between supply and demand by developing software to more intelligently schedule
-tutors according to the trends of past autumn quarters. More specifically, we develop a non-linear program-
-ming model to find the weekly tutoring schedule that best aligns with the predicted daily demand whilst
+tutors according to the trends of past autumn quarters. More specifically, we develop a non-linear programming 
+model to find the weekly tutoring schedule that best aligns with the predicted daily demand whilst
 adhering to the personal and institutional constraints put forth by tutors and program management.
